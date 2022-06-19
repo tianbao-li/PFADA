@@ -1,2 +1,2 @@
 # IBMR
-The code of LCGC will been published soon.
+The code of IBMR will been published soon.
