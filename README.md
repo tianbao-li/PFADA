@@ -1,5 +1,4 @@
 # PFADA
-The code of PFADA will been published soon.
 Related implementations for [Progressive Fourier Adversarial Domain Adaptation for Object Classification and Retrieval (TMM)](https://ieeexplore.ieee.org/document/10278480)
 
 ## Citation
